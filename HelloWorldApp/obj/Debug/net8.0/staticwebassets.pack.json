@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\augus\\source\\repos\\HelloWorldApp\\HelloWorldApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HelloWorldApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\source\\repos\\HelloWorldApp\\HelloWorldApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\source\\repos\\HelloWorldApp\\HelloWorldApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\augus\\source\\repos\\HelloWorldApp\\HelloWorldApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\augus\\source\\repos\\HelloWorldApp\\HelloWorldApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HelloWorldApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HelloWorldApp.props",
+      "PackagePath": "build\\HelloWorldApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HelloWorldApp.props",
+      "PackagePath": "buildMultiTargeting\\HelloWorldApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HelloWorldApp.props",
+      "PackagePath": "buildTransitive\\HelloWorldApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
